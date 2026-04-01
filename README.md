@@ -53,6 +53,7 @@ lung-cancer-prediction/
 
 - Python 3.8 或更高版本
 - Windows/Mac/Linux 操作系统
+- Releases中的launcher.pkg文件需要下载后放在lung-cancer-prediction\build\launcher文件夹下（因大小限制只能以附件形式上传）
 
 ### 安装步骤
 
